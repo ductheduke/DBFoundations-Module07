@@ -1,5 +1,3 @@
-# SQL Functions
-
 >By: Duc Truong
 
 >Date: September 8, 2021
