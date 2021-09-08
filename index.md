@@ -1,9 +1,8 @@
->By: Duc Truong
+# SQL Functions
+
+>Author: Duc Truong
 
 >Date: September 8, 2021
-
->Re: ITFDN 130 Assignment 7
-
 
 
 ## Introduction
